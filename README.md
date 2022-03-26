@@ -1,4 +1,4 @@
-# CSS_Challenges_Repository 
+# CSS_Challenges_Repository Foundation CSS (Basics of CSS)
 **This Reposotory contains total 6 exercises. **
 
 **Exercise 1 Result :- **
