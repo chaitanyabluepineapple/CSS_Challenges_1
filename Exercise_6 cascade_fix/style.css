@@ -1,0 +1,42 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.para,
+.small-para {
+  color: hsl(0, 100%, 50%);
+}
+
+.para {
+  font-size: 35px;
+}
+
+.button {
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  font-size: 25px;
+}
+
+div.text {
+  color: green;
+  font-size: 30px;
+}
+
+
+
+.small-para {
+  font-size: 20px;
+}
+
+
+#confirm-button {
+  background: green;
+  color: white;
+  font-weight: bold;
+}
+
+
+div .child {
+  color: red;
+  font-size: 20px;
+}
